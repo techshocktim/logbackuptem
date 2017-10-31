@@ -122,3 +122,4 @@ id,timestamp,type,comments,createdAt,updatedAt
 158,2017-10-31 02:02:53.554+00,national-dnc-scrub,"Before Count: 3533215, After Count: 2007985, Leads-removed: 1525230",2017-10-31 02:02:53.555+00,2017-10-31 02:02:53.555+00
 159,2017-10-31 02:02:56.24+00,compmnany-dnc-scrub,"Before Count: 2007985, After Count: 2002071, Leads-removed: 5914",2017-10-31 02:02:56.24+00,2017-10-31 02:02:56.24+00
 160,2017-10-31 02:03:03.613+00,leads-import," Orignal Lead Count: 3533415, N-DNC Removed: 1525230, C-DNC Removed: 5914 Invalid Removed: 1531356, Final Lead Count: 2002059",2017-10-31 02:03:03.614+00,2017-10-31 02:03:03.614+00
+161,2017-10-31 21:14:34.954+00,compmnany-dnc-scrub,"Before Count: 4004118, After Count: 2002059, Leads-removed: 2002059",2017-10-31 21:14:34.956+00,2017-10-31 21:14:34.956+00
