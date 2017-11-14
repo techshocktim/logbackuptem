@@ -1,0 +1,21 @@
+id,timestamp,type,comments,createdAt,updatedAt
+170,2017-11-14 19:35:30.638+00,national-dnc-import," Count: 57176562, Path: C:\Users\timhardy\Documents\dncimport\DNC_nov_13th_ALL.txt",2017-11-14 19:35:30.641+00,2017-11-14 19:35:30.641+00
+171,2017-11-14 19:35:39.713+00,national-dnc-scrub,"Before Count: 0, After Count: 0, Leads-removed: 0",2017-11-14 19:35:39.714+00,2017-11-14 19:35:39.714+00
+172,2017-11-14 19:37:18.258+00,national-dnc-scrub,"Before Count: 1482807, After Count: 1475388, Leads-removed: 7419",2017-11-14 19:37:18.26+00,2017-11-14 19:37:18.26+00
+173,2017-11-14 19:37:20.128+00,compmnany-dnc-scrub,"Before Count: 1475388, After Count: 1475388, Leads-removed: 0",2017-11-14 19:37:20.128+00,2017-11-14 19:37:20.128+00
+174,2017-11-14 19:37:25.556+00,leads-import," Orignal Lead Count: 1482807, N-DNC Removed: 7419, C-DNC Removed: 0 Invalid Removed: 7419, Final Lead Count: 1475388",2017-11-14 19:37:25.557+00,2017-11-14 19:37:25.557+00
+175,2017-11-14 19:40:22.935+00,national-dnc-scrub,"Before Count: 301902, After Count: 300646, Leads-removed: 1256",2017-11-14 19:40:22.936+00,2017-11-14 19:40:22.936+00
+176,2017-11-14 19:40:23.325+00,compmnany-dnc-scrub,"Before Count: 300646, After Count: 300646, Leads-removed: 0",2017-11-14 19:40:23.325+00,2017-11-14 19:40:23.325+00
+177,2017-11-14 19:40:24.491+00,leads-import," Orignal Lead Count: 301902, N-DNC Removed: 1256, C-DNC Removed: 0 Invalid Removed: 1256, Final Lead Count: 300646",2017-11-14 19:40:24.492+00,2017-11-14 19:40:24.492+00
+178,2017-11-14 19:42:19.79+00,national-dnc-scrub,"Before Count: 1232066, After Count: 1226319, Leads-removed: 5747",2017-11-14 19:42:19.792+00,2017-11-14 19:42:19.792+00
+179,2017-11-14 19:42:21.333+00,compmnany-dnc-scrub,"Before Count: 1226319, After Count: 1226319, Leads-removed: 0",2017-11-14 19:42:21.333+00,2017-11-14 19:42:21.333+00
+180,2017-11-14 19:42:26.037+00,leads-import," Orignal Lead Count: 1232066, N-DNC Removed: 5747, C-DNC Removed: 0 Invalid Removed: 5747, Final Lead Count: 1226319",2017-11-14 19:42:26.039+00,2017-11-14 19:42:26.039+00
+181,2017-11-14 19:45:47.274+00,national-dnc-scrub,"Before Count: 3407694, After Count: 3403387, Leads-removed: 4307",2017-11-14 19:45:47.276+00,2017-11-14 19:45:47.276+00
+182,2017-11-14 19:45:51.573+00,compmnany-dnc-scrub,"Before Count: 3403387, After Count: 3403387, Leads-removed: 0",2017-11-14 19:45:51.573+00,2017-11-14 19:45:51.573+00
+183,2017-11-14 19:46:04.429+00,leads-import," Orignal Lead Count: 3407694, N-DNC Removed: 4307, C-DNC Removed: 0 Invalid Removed: 4307, Final Lead Count: 3403387",2017-11-14 19:46:04.431+00,2017-11-14 19:46:04.431+00
+184,2017-11-14 19:49:04.798+00,national-dnc-scrub,"Before Count: 4276580, After Count: 4270983, Leads-removed: 5597",2017-11-14 19:49:04.799+00,2017-11-14 19:49:04.799+00
+185,2017-11-14 19:49:10.226+00,compmnany-dnc-scrub,"Before Count: 4270983, After Count: 4270983, Leads-removed: 0",2017-11-14 19:49:10.226+00,2017-11-14 19:49:10.226+00
+186,2017-11-14 19:49:30.524+00,leads-import," Orignal Lead Count: 4276580, N-DNC Removed: 5597, C-DNC Removed: 0 Invalid Removed: 5597, Final Lead Count: 4270983",2017-11-14 19:49:30.525+00,2017-11-14 19:49:30.525+00
+187,2017-11-14 19:51:25.143+00,national-dnc-scrub,"Before Count: 2334054, After Count: 2329330, Leads-removed: 4724",2017-11-14 19:51:25.144+00,2017-11-14 19:51:25.144+00
+188,2017-11-14 19:51:28.07+00,compmnany-dnc-scrub,"Before Count: 2329330, After Count: 2329330, Leads-removed: 0",2017-11-14 19:51:28.07+00,2017-11-14 19:51:28.07+00
+189,2017-11-14 19:51:39.723+00,leads-import," Orignal Lead Count: 2334054, N-DNC Removed: 4724, C-DNC Removed: 0 Invalid Removed: 4724, Final Lead Count: 2329330",2017-11-14 19:51:39.724+00,2017-11-14 19:51:39.724+00
