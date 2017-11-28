@@ -46,3 +46,4 @@ id,timestamp,type,comments,createdAt,updatedAt
 214,2017-11-24 17:58:53.104+00,national-dnc-scrub,"Before Count: 214354, After Count: 214354, Leads-removed: 0",2017-11-24 17:58:53.105+00,2017-11-24 17:58:53.105+00
 215,2017-11-24 17:58:53.424+00,compmnany-dnc-scrub,"Before Count: 214354, After Count: 214354, Leads-removed: 0",2017-11-24 17:58:53.424+00,2017-11-24 17:58:53.424+00
 216,2017-11-24 17:58:54.281+00,leads-import," Orignal Lead Count: 214489, N-DNC Removed: 0, C-DNC Removed: 0 Invalid Removed: 298, Final Lead Count: 214191",2017-11-24 17:58:54.282+00,2017-11-24 17:58:54.282+00
+217,2017-11-28 21:04:38.902+00,compmnany-dnc-scrub,"Before Count: 0, After Count: 0, Leads-removed: 0",2017-11-28 21:04:38.904+00,2017-11-28 21:04:38.904+00
